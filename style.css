@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#contenedor{
+    width: 100%;
+    background-color: #F8F8FF;
+}
+#cabecera{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 3em;
+    height: 10%;
+}
+#menu{
+    width: 20%;
+    height: 80%;
+    float: left;
+}
+#contenido{
+    width: 80%;
+    height: 80%;
+    float: left;
+
+}
+#contenido #linea{
+    width: 8%;
+    height: 80%;
+    float: left;
+}
+.verde{
+    margin-left: 20px;
+    border-left: 14px solid green;
+    height: 800px;
+    position: absolute;
+}
+
+#contenido #columna2{
+    width: 92%;
+    float: right;
+    height: 80%;
+}
+.titulo1{
+    color: crimson;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+.titulo2{
+    color: #FFA500;
+    font-size: 2.9em;
+}
+#pie{
+    width: 100%;
+    color: yellow;
+    background-color: cornflowerblue;
+    clear: both;
+    height: 10%;
+}
